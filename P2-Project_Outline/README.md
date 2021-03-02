@@ -8,11 +8,16 @@ For this assignment, you will submit a high-level outline of your project. This 
 
 ### Overview
 Include overview here
+
 ### Features
-Include Features here
+*User Login: create accounts and log in to the game 
+
 ### Technologies
-Include Technologies here
+*C#
+*Datebase
+
 ### What I'll Have to Learn
-Include what you will need to learn here
+*API
+
 ### Project Tracker
-Link to your Trello board here
+https://github.com/BabelFishies/SilverHippogryphs/projects/1
